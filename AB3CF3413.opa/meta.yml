@@ -1,0 +1,20 @@
+id: AB3CF3413
+title: 'Candrakīrti: Madhyamakāvatāra'
+type: translation
+pechas:
+- IC0042EEC
+- I83CFD3F7
+- I48EECC69
+- I4C47703B
+source_metadata:
+  languages:
+  - en
+  - bo
+  datatype: PlainText
+  created_at: 2023-02-10 00:28:40.589534
+  last_modified_at: 2023-02-10 00:28:40.589555
+alignment_to_base:
+  IC0042EEC/7444: 499F
+  I83CFD3F7/9DBF: 499F
+  I48EECC69/ACF0: 499F
+  I4C47703B/B485: 499F
